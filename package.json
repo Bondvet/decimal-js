@@ -1,5 +1,5 @@
 {
-  "name": "decimal",
+  "name": "@bondvet/decimal",
   "description": "Simple decimal arithmetic for the browser and node.js!",
   "author": "Samori Gorse <samorigorse@gmail.com>",
   "version": "0.0.2",
@@ -15,6 +15,6 @@
     "url": "git://github.com/shinuza/decimal-js.git"
   },
   "engines": {
-    "node": ">=0.4.x"
+    "node": ">=0.4.0"
   }
 }
